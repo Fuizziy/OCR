@@ -3,7 +3,10 @@
 - Victor CHEMLA
 - Thomas GOSSIN
 - Julie SIAHOU
-<br/>23 Octobre
-<br/>11 Décemble
 
-# TEST
+# Emploi du temps
+## 23 Octobre
+Première soutenance
+ 
+## 11 Décembre
+Dernière soutenance
