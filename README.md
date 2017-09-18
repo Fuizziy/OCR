@@ -1,6 +1,9 @@
-# OCR
-Projet OCS
-23 Octobre
-11 Décemble
+# Projet OCR
+- Antoine ALLARD
+- Victor CHEMLA
+- Thomas GOSSIN
+- Julie SIAHOU
+<br/>23 Octobre
+<br/>11 Décemble
 
 # TEST
